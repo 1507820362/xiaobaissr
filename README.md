@@ -5,4 +5,4 @@ wget -N --no-check-certificate https://github.com/1507820362/xiaobaissr/ssr.sh &
 
 
 
-原文地址：https://blog.xbbai.site/xiao-bai-206.html
+具体教程地址：https://www.xiaobaibk.com/xiao-bai-206.html
